@@ -11,7 +11,8 @@ namespace Core
 
         public static string GetVersion()
         {
-            return "Versione 1.1";
+            const string versione = "nuova versione";
+            return versione;
         }
     }
 }
