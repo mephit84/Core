@@ -9,6 +9,9 @@ namespace Core
     public class Class1
     {
 
-
+        public static string GetVersion()
+        {
+            return "Versione 1";
+        }
     }
 }
